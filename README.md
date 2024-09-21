@@ -16,7 +16,7 @@
 
    I also set a metronome on the pitch because I didn't like how it sounded when it was changing instantly. During this project I learned so much, and poured over documentation for hours. My knowledge of Ableton also improved dramatically. Simple put, LETS GOOOO!!!
 
-    * Patch 1
+    Patch 1
       - Added scale quantization
       - Removed sample triggers
       - Added audio samples to Ableton folder
